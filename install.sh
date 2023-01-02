@@ -10,7 +10,7 @@ vscode=vscode.scpt
 DOWNLOAD_ITERM_URI=https://raw.githubusercontent.com/onmyway133/FinderGo/master/FinderSyncExtension/Scripts/${iTerm}
 DOWNLOAD_TERMINAL_URI=https://raw.githubusercontent.com/onmyway133/FinderGo/master/FinderSyncExtension/Scripts/${terminal}
 DOWNLOAD_HYPER_URI=https://raw.githubusercontent.com/onmyway133/FinderGo/master/FinderSyncExtension/Scripts/${hyper}
-DOWNLOAD_VSCODE_URI=https://raw.githubusercontent.com/onmyway133/FinderGo/master/FinderSyncExtension/Scripts/${vscode}
+DOWNLOAD_VSCODE_URI=https://raw.githubusercontent.com/Ryuuu825/FinderGo/master/FinderSyncExtension/Scripts/${vscode}
 
 SCRIPT_DIR="${HOME}/Library/Application Scripts/com.onmyway133.FinderGo.FinderSyncExtension"
 
