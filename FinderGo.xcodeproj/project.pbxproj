@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		42DC298D2962D789004E79B6 /* vscode.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 42DC298C2962D789004E79B6 /* vscode.scpt */; };
 		D20C77611E7898B20055E5FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D20DCECD1E7751EF00A74C33 /* Assets.xcassets */; };
 		D20DCECA1E7751EF00A74C33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20DCEC91E7751EF00A74C33 /* AppDelegate.swift */; };
 		D20DCECC1E7751EF00A74C33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20DCECB1E7751EF00A74C33 /* ViewController.swift */; };
@@ -64,6 +65,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		42DC298C2962D789004E79B6 /* vscode.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vscode.scpt; sourceTree = "<group>"; };
 		D20DCEC61E7751EF00A74C33 /* FinderGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinderGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D20DCEC91E7751EF00A74C33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D20DCECB1E7751EF00A74C33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 		D2C1DF0A1E7D1B4100A0AFF0 /* Scripts */ = {
 			isa = PBXGroup;
 			children = (
+				42DC298C2962D789004E79B6 /* vscode.scpt */,
 				D2C1DF0B1E7D1B4100A0AFF0 /* hyper.scpt */,
 				D2C1DF0C1E7D1B4100A0AFF0 /* iterm.scpt */,
 				D2C1DF0D1E7D1B4100A0AFF0 /* terminal.scpt */,
@@ -335,6 +338,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -380,6 +384,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42DC298D2962D789004E79B6 /* vscode.scpt in Resources */,
 				D20C77611E7898B20055E5FF /* Assets.xcassets in Resources */,
 				D2C1DF0E1E7D1B4100A0AFF0 /* hyper.scpt in Resources */,
 				D2C1DF101E7D1B4100A0AFF0 /* terminal.scpt in Resources */,
