@@ -56,6 +56,7 @@ defaults write com.onmyway133.FinderGo terminal Hyper
 - [x] Go to Terminal
 - [x] Go to iTerm
 - [x] Go to Hyper
+- [x] Go to vscode
 
 <div align = "center">
 <img src="Images/screenshot2.png" />
@@ -68,7 +69,7 @@ defaults write com.onmyway133.FinderGo terminal Hyper
 - Because of sandbox, we need to copy scripts from `FinderSyncExtension/Scripts` in project to `/Library/Application Scripts/com.onmyway133.FinderGo.FinderSyncExtension` by running 
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/onmyway133/FinderGo/master/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Ryuuu825/FinderGo/master/install.sh | sh
 ```
 
 - Check for `System Preferences` -> `Extensions` -> `Finder` to enable `FinderGo` if it is not enabled yet
